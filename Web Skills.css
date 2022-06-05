@@ -1,0 +1,42 @@
+/* This Is To Make Sure That The Padding Behaves */
+* {
+    box-sizing: border-box;
+  }
+  
+  /* This Is The Container For The Skills Bar */
+  .container {
+    width: 100%;
+    background-color: #7575a3;
+  }
+  
+  .skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+  }
+  
+  .html {
+    width: 97%;
+    background: linear-gradient(to right, #9933ff 0%, #000066 100%);
+  }
+  
+  .css {
+    width: 93%;
+    background: linear-gradient(to right, #9933ff 0%, #000066 100%);
+  }
+  
+  .javascript {
+    width: 74%;
+    background: linear-gradient(to right, #9933ff 0%, #000066 100%);
+  }
+  
+  .react {
+    width: 72%;
+    background: linear-gradient(to right, #9933ff 0%, #000066 100%);
+  }
+  
+  .sql {
+    width: 78%;
+    background: linear-gradient(to right, #9933ff 0%, #000066 100%);
+  }
